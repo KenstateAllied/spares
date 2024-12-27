@@ -124,7 +124,7 @@ session_start();
 					<ul class="header-links pull-left">
 						<li><a href="#"><i class="fa fa-phone"></i> +254-724052417</a></li>
 						<li><a href="#"><i class="fa fa-envelope-o"></i> sales@kenstate.co.ke</a></li>
-						<li><a href="#"><i class="fa fa-map-marker"></i>Westlandds Nairobi, Eldoret Kenya</a></li>
+						<li><a href="#"><i class="fa fa-map-marker"></i>Westlands Nairobi, Eldoret Kenya</a></li>
 					</ul>
 					<ul class="header-links pull-right">
 						<li><a href="#"><i class="fa fa-inr"></i> Kenstate Allied</a></li>
@@ -196,9 +196,14 @@ session_start();
 								<form onsubmit="return false">
 									<select class="input-select">
 										<option value="0">All Categories</option>
-										<option value="1">Men</option>
-										<option value="1">Women </option>
-									</select>
+										<option value="1">Saloon Cars</option>
+										<option value="1">Pickups & Trucks </option>
+										<option value="1">Tractors</option>
+										<option value="1">Implements </option>
+										<option value="1">Tractor Spares</option>
+										<option value="1">Auto Spares </option>
+										<option value="1">Motor Bikes</option>
+																			</select>
 									<input class="input" id="search" type="text" placeholder="Search here">
 									<button id="search_btn"   class="search-btn">Search</button>
 								</form>
@@ -263,23 +268,23 @@ session_start();
 		<nav id='navigation'>
 			<!-- container -->
 			<div class="container" id="get_category_home">
-				<!-- <div id="responsive-nav">
+				
 						
 					<ul class="main-nav nav navbar-nav">
 						<li class="active"><a href="index.php">Home</a></li>
-						<li class="category" cid="1"><a href="store.php">Electronics</a></li>
-						<li class="category" cid="2"><a href="store.php">Ladies Wears</a></li>
-						<li class="category" cid="3"><a href="store.php">Mens Wear</a></li>
-						<li class="category" cid="4"><a href="store.php">Kids Wear</a></li>
-						<li class="category" cid="5"><a href="store.php">Furnitures</a></li>
-						<li class="category" cid="6"><a href="store.php">Home Appliances</a></li>
-						<li class="category" cid="7"><a href="store.php">Electronics Gadgets</a></li>
+						<li class="category" cid="1"><a href="store.php">Saloon Cars</a></li>
+						<li class="category" cid="2"><a href="store.php">Pickups & Trucks</a></li>
+						<li class="category" cid="3"><a href="store.php">Tractors</a></li>
+						<li class="category" cid="4"><a href="store.php">Implements</a></li>
+						<li class="category" cid="5"><a href="store.php">Tractor Spares</a></li>
+						<li class="category" cid="6"><a href="store.php">Auto Spares</a></li>
+						<li class="category" cid="7"><a href="store.php">Motor Bikes</a></li>
 					
 					</ul>
 						
-				</div> -->
+				</div> 
 			</div>
-			<!-- /container -->
+			
 		</nav>
             
 
@@ -296,7 +301,8 @@ session_start();
                             </div>
                             <div class="modal-body">
                             <?php
-                                include "login_form.php";          
+                                include "login_form.php";   
+								?>       
                             </div>
                                                       </div>
 													</div>

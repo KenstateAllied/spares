@@ -53,7 +53,7 @@ include "topheader.php";
                         <input type="radio" name="options" autocomplete="off"> clothes
                       </label>
                       <label class="btn btn-sm btn-primary btn-simple" id="2">
-                        <input type="radio" name="options" autocomplete="off"> Home Appliances
+                        <input type="radio" name="options" autocomplete="off"> Home Auto Spares
                       </label>
                     </div>
               </div>
