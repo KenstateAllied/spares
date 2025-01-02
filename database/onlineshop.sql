@@ -169,9 +169,7 @@ CREATE TABLE `cart` (
 --
 
 INSERT INTO `cart` (`id`, `p_id`, `ip_add`, `user_id`, `qty`) VALUES
-(272, 72, '::1', 12, 1),
-(281, 1, '::1', 12, 1),
-(282, 8, '::1', 12, 3);
+(272, 72, '::1', 12, 1);
 
 -- --------------------------------------------------------
 
@@ -213,9 +211,7 @@ CREATE TABLE `email_info` (
 --
 
 INSERT INTO `email_info` (`email_id`, `email`) VALUES
-(3, 'admin@gmail.com'),
-(4, 'puneethreddy951@gmail.com'),
-(5, 'supportreddy@gmail.com');
+(3, 'admin@gmail.com');
 
 -- --------------------------------------------------------
 
@@ -250,8 +246,7 @@ CREATE TABLE `orders` (
 --
 
 INSERT INTO `orders` (`order_id`, `user_id`, `product_id`, `qty`, `trx_id`, `p_status`) VALUES
-(1, 12, 7, 1, '07M47684BS5725041', 'Completed'),
-(2, 14, 2, 1, '07M47684BS5725041', 'Completed');
+(1, 12, 7, 1, '07M47684BS5725041', 'Completed');
 
 -- --------------------------------------------------------
 
@@ -302,9 +297,7 @@ CREATE TABLE `order_products` (
 --
 
 INSERT INTO `order_products` (`order_pro_id`, `order_id`, `product_id`, `qty`, `amt`) VALUES
-(73, 1, 1, 1, 5000),
-(74, 1, 4, 2, 64000),
-(75, 1, 8, 1, 40000);
+(73, 1, 1, 1, 5000);
 
 -- --------------------------------------------------------
 
@@ -435,11 +428,7 @@ CREATE TABLE `wishlist` (
 --
 
 INSERT INTO `wishlist` (`id`, `p_id`, `ip_add`, `user_id`) VALUES
-(224, 0, '::1', -1),
-(282, 3, '::1', -1),
-(283, 73, '::1', 12),
-(284, 74, '::1', 12),
-(285, 0, '::1', 12);
+(224, 0, '::1', -1);
 
 --
 -- Indexes for dumped tables

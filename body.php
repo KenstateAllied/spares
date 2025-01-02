@@ -117,13 +117,16 @@
 					<!-- section title -->
 					<div class="col-md-12">
 						<div class="section-title">
-							<h3 class="title">New Products</h3>
+							<h3 class="title">New Listings</h3>
 							<div class="section-nav">
-								<ul class="section-tab-nav tab-nav">
-									<li class="active"><a data-toggle="tab" href="#tab1">Laptops</a></li>
-									<li><a data-toggle="tab" href="#tab1">Smartphones</a></li>
-									<li><a data-toggle="tab" href="#tab1">Cameras</a></li>
-									<li><a data-toggle="tab" href="#tab1">Accessories</a></li>
+															<ul class="section-tab-nav tab-nav">
+									<li class="active"><a data-toggle="tab" href="#tab1">Saloon Cars</a></li>
+									<li><a data-toggle="tab" href="#tab1">Pickups & Trucks</a></li>
+									<li><a data-toggle="tab" href="#tab1">Tractors</a></li>
+									<li><a data-toggle="tab" href="#tab1">Implements</a></li>
+									<li><a data-toggle="tab" href="#tab1"></a>Tractor Spares</li>
+									<li><a data-toggle="tab" href="#tab1">Auto Spares</a></li>
+									<li><a data-toggle="tab" href="#tab1">Motor Bikes</a></li>
 								</ul>
 							</div>
 						</div>
@@ -292,13 +295,16 @@
 					<!-- section title -->
 					<div class="col-md-12">
 						<div class="section-title">
-							<h3 class="title">Top selling</h3>
+							<h3 class="title">Top Listings</h3>
 							<div class="section-nav">
-								<ul class="section-tab-nav tab-nav">
-									<li class="active"><a data-toggle="tab" href="#tab2">Formals</a></li>
-									<li><a data-toggle="tab" href="#tab2">Shirts</a></li>
-									<li><a data-toggle="tab" href="#tab2">T-Shirts</a></li>
-									<li><a data-toggle="tab" href="#tab2">Pants</a></li>
+							<ul class="section-tab-nav tab-nav">
+									<li class="active"><a data-toggle="tab" href="#tab1">Saloon Cars</a></li>
+									<li><a data-toggle="tab" href="#tab1">Pickups & Trucks</a></li>
+									<li><a data-toggle="tab" href="#tab1">Tractors</a></li>
+									<li><a data-toggle="tab" href="#tab1">Implements</a></li>
+									<li><a data-toggle="tab" href="#tab1"></a>Tractor Spares</li>
+									<li><a data-toggle="tab" href="#tab1">Auto Spares</a></li>
+									<li><a data-toggle="tab" href="#tab1">Motor Bikes</a></li>
 								</ul>
 							</div>
 						</div>
@@ -436,7 +442,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -449,7 +455,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -462,7 +468,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- product widget -->
@@ -488,7 +494,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -501,7 +507,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -514,7 +520,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- product widget -->
@@ -529,7 +535,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -542,7 +548,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -555,7 +561,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- product widget -->
@@ -585,7 +591,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -598,7 +604,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -611,7 +617,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- product widget -->
@@ -626,7 +632,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -640,7 +646,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- /product widget -->
@@ -653,7 +659,7 @@
 									<div class="product-body">
 										<p class="product-category">Category</p>
 										<h3 class="product-name"><a href="#">product name goes here</a></h3>
-										<h4 class="product-price">Kshs980.00 <del class="product-old-price">.00</del></h4>
+										<h4 class="product-price">Kshs0 <del class="product-old-price">.00</del></h4>
 									</div>
 								</div>
 								<!-- product widget -->
