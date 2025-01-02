@@ -11,8 +11,8 @@ session_start();
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-		<title>Digital Market place</title>
-
+		<title>Digital @ your Service</title>
+		<title>Are you selling your car, tractor etc whatsapp us a pic, location & price</title>
 		<!-- Google font -->
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet"/>
 
@@ -183,6 +183,9 @@ session_start();
 								<a href="#" class="logo">
 								<font style="font-style:normal; font-size: 33px;color: aliceblue;font-family: serif">
                                         Digital Marketplace
+                                    </font>
+									<font style="font-style:normal; font-size: 20px;color: aliceblue;font-family: serif">
+                                        Selling or Shopping for auto, tractor, implements, spares etc Whatsapp/ Call us
                                     </font>
 									
 								</a>

@@ -136,11 +136,13 @@ white-space: nowrap;
 							<div class="footer">
 								<h3 class="footer-title">Categories</h3>
 								<ul class="footer-links">
-									<li><a href="#">Mobiles</a></li>
-									<li><a href="#">Men</a></li>
-									<li><a href="#">Women</a></li>
-									<li><a href="#">Kids</a></li>
-									<li><a href="#">Accessories</a></li>
+								<li><a href="#">Saloon Cars</a></li>
+									<li><a href="#">Pickups & Trucks </a></li>
+									<li><a href="#">Tractors</a></li>
+									<li><a href="#">Implements</a></li>
+									<li><a href="#">Tractor Spares</a></li>
+									<li><a href="#">Auto Spares</a></li>
+									<li><a href="#">Motor Bikes</a></li>
 								</ul>
 							</div>
 						</div>
