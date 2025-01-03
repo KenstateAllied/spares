@@ -180,14 +180,14 @@ session_start();
 						<!-- LOGO -->
 						<div class="col-md-3">
 							<div class="header-logo">
-								<a href="#" class="logo">
+								<a href="#" class="logo"><ul>
 								<font style="font-style:normal; font-size: 33px;color: aliceblue;font-family: serif">
                                         Digital Marketplace
                                     </font>
-									<font style="font-style:normal; font-size: 20px;color: aliceblue;font-family: serif">
+									<font style="font-style:normal; font-size: 15px;color: aliceblue;font-family: serif">
                                         Selling or Shopping for auto, tractor, implements, spares etc Whatsapp/ Call us
                                     </font>
-									
+						</ul>
 								</a>
 							</div>
 						</div>

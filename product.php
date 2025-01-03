@@ -130,7 +130,7 @@ include "header.php";
 										
 									</div>
 									<div>
-										<h3 class="product-price">$'.$row['product_price'].'<del class="product-old-price">.00</del></h3>
+										<h3 class="product-price">Kshs'.$row['product_price'].'<del class="product-old-price"></del></h3>
 										<span class="product-available">Available</span>
 									</div>
 									<p>Call for Details.</p>
@@ -323,14 +323,14 @@ include "header.php";
 									<div class='product-img'>
 										<img src='product_images/$pro_image' style='max-height: 170px;' alt=''>
 										<div class='product-label'>
-											<span class='sale'>-30%</span>
+											<span class='sale'></span>
 											<span class='new'>NEW</span>
 										</div>
 									</div></a>
 									<div class='product-body'>
 										<p class='product-category'>$cat_name</p>
 										<h3 class='product-name header-cart-item-name'><a href='product.php?p=$pro_id'>$pro_title</a></h3>
-										<h4 class='product-price header-cart-item-info'>$pro_price<del class='product-old-price'>.00</del></h4>
+										<h4 class='product-price header-cart-item-info'>$pro_price<del class='product-old-price'></del></h4>
 										<div class='product-rating'>";
 										$rating_query = "SELECT ROUND(AVG(rating),1) AS avg_rating  FROM reviews WHERE product_id='$pro_id '";
 										$run_review_query = mysqli_query($con,$rating_query);

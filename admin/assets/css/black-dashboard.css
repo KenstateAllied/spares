@@ -352,14 +352,14 @@ Copyright (c) 2015 Daniel Eden
   padding: 11px 40px;
   cursor: pointer;
   animation: rotation 0.3s infinite;
-  background: #344675;
-  background-image: -webkit-linear-gradient(to bottom left, #344675, #263148, #344675);
-  background-image: -o-linear-gradient(to bottom left, #344675, #263148, #344675);
-  background-image: -moz-linear-gradient(to bottom left, #344675, #263148, #344675);
-  background-image: linear-gradient(to bottom left, #344675, #263148, #344675);
+  background: #DEB887;
+  background-image: -webkit-linear-gradient(to bottom left, #DEB887, #778899 #DEB887);
+  background-image: -o-linear-gradient(to bottom left, #DEB887, #778899 #DEB887);
+  background-image: -moz-linear-gradient(to bottom left, #DEB887, #778899 #DEB887);
+  background-image: linear-gradient(to bottom left, #DEB887, #778899 #DEB887);
   background-size: 200% 200%;
   background-position: top right;
-  background-color: #344675;
+  background-color: #DEB887;
   transition: all 0.15s ease;
   color: #FFFFFF;
 }
@@ -387,10 +387,10 @@ Copyright (c) 2015 Daniel Eden
 .navbar .navbar-nav>a.btn.active:focus,
 .navbar .navbar-nav>a.btn.active:hover {
   background-color: #263148 !important;
-  background-image: linear-gradient(to bottom left, #344675, #263148, #344675) !important;
-  background-image: -webkit-linear-gradient(to bottom left, #344675, #263148, #344675) !important;
-  background-image: -o-linear-gradient(to bottom left, #344675, #263148, #344675) !important;
-  background-image: -moz-linear-gradient(to bottom left, #344675, #263148, #344675) !important;
+  background-image: linear-gradient(to bottom left, #DEB887, #778899 #DEB887) !important;
+  background-image: -webkit-linear-gradient(to bottom left, #DEB887, #778899 #DEB887) !important;
+  background-image: -o-linear-gradient(to bottom left, #DEB887, #778899 #DEB887) !important;
+  background-image: -moz-linear-gradient(to bottom left, #DEB887, #778899 #DEB887) !important;
   color: #FFFFFF;
   box-shadow: none;
 }
@@ -457,14 +457,14 @@ fieldset[disabled] .navbar .navbar-nav>a.btn:focus,
 fieldset[disabled] .navbar .navbar-nav>a.btn.focus,
 fieldset[disabled] .navbar .navbar-nav>a.btn:active,
 fieldset[disabled] .navbar .navbar-nav>a.btn.active {
-  background-color: #344675;
-  border-color: #344675;
+  background-color: #DEB887;
+  border-color: #DEB887;
 }
 
 .btn.btn-simple,
 .navbar .navbar-nav>a.btn.btn-simple {
-  color: #344675;
-  border-color: #344675;
+  color: #DEB887;
+  border-color: #DEB887;
   background: transparent;
 }
 
@@ -476,8 +476,8 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 .navbar .navbar-nav>a.btn.btn-simple:focus,
 .navbar .navbar-nav>a.btn.btn-simple:active,
 .navbar .navbar-nav>a.btn.btn-simple:not(:disabled):not(.disabled):active {
-  color: #344675;
-  border-color: #344675;
+  color: #DEB887;
+  border-color: #DEB887;
   background-color: transparent !important;
   background-image: none !important;
   box-shadow: none;
@@ -485,7 +485,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 
 .btn.btn-simple.active,
 .navbar .navbar-nav>a.btn.btn-simple.active {
-  border-color: #344675 !important;
+  border-color: #DEB887 !important;
 }
 
 .btn.btn-simple.active:hover,
@@ -497,18 +497,18 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 .navbar .navbar-nav>a.btn.btn-simple.active:active,
 .navbar .navbar-nav>a.btn.btn-simple.active:not(:disabled):not(.disabled):active {
   color: #FFFFFF;
-  border-color: #344675;
-  background-image: linear-gradient(to bottom left, #344675, #263148, #344675) !important;
-  background-image: -webkit-linear-gradient(to bottom left, #344675, #263148, #344675) !important;
-  background-image: -o-linear-gradient(to bottom left, #344675, #263148, #344675) !important;
-  background-image: -moz-linear-gradient(to bottom left, #344675, #263148, #344675) !important;
+  border-color: #DEB887;
+  background-image: linear-gradient(to bottom left, #DEB887, #778899 #DEB887) !important;
+  background-image: -webkit-linear-gradient(to bottom left, #DEB887, #778899 #DEB887) !important;
+  background-image: -o-linear-gradient(to bottom left, #DEB887, #778899 #DEB887) !important;
+  background-image: -moz-linear-gradient(to bottom left, #DEB887, #778899 #DEB887) !important;
   background-color: #263148 !important;
   box-shadow: none;
 }
 
 .btn.btn-link,
 .navbar .navbar-nav>a.btn.btn-link {
-  color: #344675;
+  color: #DEB887;
 }
 
 .btn.btn-link:hover,
@@ -1380,7 +1380,7 @@ fieldset[disabled] .btn-neutral.active {
 }
 
 .btn-neutral.btn-default {
-  color: #344675;
+  color: #DEB887;
 }
 
 .btn-neutral.btn-default:hover,
@@ -1473,7 +1473,7 @@ fieldset[disabled] .btn-neutral.active {
 
 .btn-simple {
   border: 1px solid;
-  border-color: #344675;
+  border-color: #DEB887;
   padding: 10px 22px;
   background-color: transparent;
 }
@@ -2040,7 +2040,7 @@ fieldset[disabled] .btn-link.active {
 .form-control[readonly],
 fieldset[disabled] .form-control {
   background-color: #1d253b;
-  color: #344675;
+  color: #DEB887;
   cursor: not-allowed;
 }
 
@@ -2393,14 +2393,14 @@ a.text-gray:hover {
 
 .blockquote {
   border-left: none;
-  border: 1px solid #344675;
+  border: 1px solid #DEB887;
   padding: 20px;
   font-size: 1.1em;
   line-height: 1.8;
 }
 
 .blockquote small {
-  color: #344675;
+  color: #DEB887;
   font-size: 0.8571em;
   text-transform: uppercase;
 }
@@ -3109,7 +3109,7 @@ a[data-toggle="collapse"][aria-expanded="true"] .caret,
 
 .dropdown-menu.dropdown-black {
   background: linear-gradient(to bottom, #222a42 0%, #1d253b 100%);
-  border: 1px solid #344675;
+  border: 1px solid #DEB887;
 }
 
 .dropdown-menu.dropdown-black .dropdown-item {
@@ -3117,7 +3117,7 @@ a[data-toggle="collapse"][aria-expanded="true"] .caret,
 }
 
 .dropdown-menu.dropdown-black .dropdown-divider {
-  border-color: #344675;
+  border-color: #DEB887;
 }
 
 .dropdown-menu.dropdown-black:before {
@@ -3136,7 +3136,7 @@ a[data-toggle="collapse"][aria-expanded="true"] .caret,
   top: -6px;
   left: 10px;
   right: auto;
-  color: #344675;
+  color: #DEB887;
   border-bottom: .4em solid;
   border-right: .4em solid transparent;
   border-left: .4em solid transparent;
@@ -5093,7 +5093,7 @@ table.tablesorter thead tr .headerSortDown {
   }
   .navbar.bg-white .dropdown-menu .dropdown-item:focus,
   .navbar.bg-white .dropdown-menu .dropdown-item:hover {
-    color: #344675;
+    color: #DEB887;
   }
   .navbar button.navbar-toggler[data-target="#navigation"] {
     padding-top: 0;
@@ -5123,7 +5123,7 @@ table.tablesorter thead tr .headerSortDown {
     transition: width .2s linear;
   }
   .navbar.bg-white:not(.navbar-transparent) .navbar-toggler-bar {
-    background-color: #344675;
+    background-color: #DEB887;
   }
   .navbar .toggled .navbar-toggler-bar {
     width: 24px;
@@ -5718,7 +5718,7 @@ table.tablesorter thead tr .headerSortDown {
 }
 
 .white-content .main-panel .navbar.navbar-transparent .search-bar.input-group .form-control {
-  color: #344675;
+  color: #DEB887;
 }
 
 .white-content .main-panel .navbar.navbar-transparent .search-bar.input-group .form-control::placeholder {
@@ -5919,7 +5919,7 @@ table.tablesorter thead tr .headerSortDown {
 }
 
 .white-content .main-panel .card:not(.card-pricing) label:not(.btn) {
-  color: #344675;
+  color: #DEB887;
 }
 
 .white-content .main-panel .card:not(.card-pricing) .pagination .page-item:not(.active) .page-link {

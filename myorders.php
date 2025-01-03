@@ -85,9 +85,9 @@ include "header.php";
                             <ul>
                             <li class="totalRow"><span class="label">Subtotal</span><span class="value">&#x20B9; '.$prev_total.'</span></li>
                             
-                                <li class="totalRow"><span class="label">Shipping</span><span class="value">&#x20B9; 0.00</span></li>
+                                <li class="totalRow"><span class="label">Shipping</span><span class="value">&#x20B9; 0</span></li>
                             
-                                    <li class="totalRow"><span class="label">Tax</span><span class="value">&#x20B9; 0.00</span></li>
+                                    <li class="totalRow"><span class="label">Tax</span><span class="value">&#x20B9; 0</span></li>
                                     <li class="totalRow final"><span class="label">Total</span><span class="value">&#x20B9;'.$prev_total.'</span></li>
                             
                             </ul>
@@ -134,9 +134,9 @@ include "header.php";
                                         <ul>
                                         <li class="totalRow"><span class="label">Subtotal</span><span class="value">&#x20B9; '.$prev_total.'</span></li>
                                         
-                                            <li class="totalRow"><span class="label">Shipping</span><span class="value">&#x20B9; 0.00</span></li>
+                                            <li class="totalRow"><span class="label">Shipping</span><span class="value">&#x20B9; 0</span></li>
                                         
-                                                <li class="totalRow"><span class="label">Tax</span><span class="value">&#x20B9; 0.00</span></li>
+                                                <li class="totalRow"><span class="label">Tax</span><span class="value">&#x20B9; 0</span></li>
                                                 <li class="totalRow final"><span class="label">Total</span><span class="value">&#x20B9;'.$prev_total.'</span></li>
                                         
                                         </ul>
