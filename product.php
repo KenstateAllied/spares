@@ -160,7 +160,6 @@ include "header.php";
 											</div>
 										</div>
 										<div class="btn-group" style="margin-left: 25px; margin-top: 15px">
-										<button class="add-to-cart-btn" pid="'.$row['product_id'].'"  id="product" ><i class="fa fa-shopping-cart"></i> add to cart</button>
 										</div>
 										
 										
@@ -360,7 +359,6 @@ include "header.php";
 										</div>
 									</div>
 									<div class='add-to-cart'>
-										<button pid='$pro_id' id='product' class='add-to-cart-btn block2-btn-towishlist' href='#'><i class='fa fa-shopping-cart'></i> add to cart</button>
 									</div>
 								</div>
                                 </div>
