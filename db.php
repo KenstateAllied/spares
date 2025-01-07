@@ -3,7 +3,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$db = "kenstate_onlineshop";
+$db = "onlineshop";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);
