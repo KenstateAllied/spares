@@ -78,17 +78,9 @@ include "header.php";
                                         <img src="product_images/'.$row['product_image'].'" alt="">
                                     </div>
 
-                                    <div class="product-preview">
-                                        <img src="product_images/'.$row['product_image'].'" alt="">
-                                    </div>
+                                    
 
-                                    <div class="product-preview">
-                                        <img src="product_images/'.$row['product_image'].'" alt="">
-                                    </div>
-
-                                    <div class="product-preview">
-                                        <img src="product_images/'.$row['product_image'].'" alt="">
-                                    </div>
+                                    
                                 </div>
                             </div>
                                 
@@ -98,17 +90,9 @@ include "header.php";
                                         <img src="product_images/'.$row['product_image'].'" alt="">
                                     </div>
 
-                                    <div class="product-preview">
-                                        <img src="product_images/'.$row['product_image'].'" alt="">
-                                    </div>
+                                   
 
-                                    <div class="product-preview">
-                                        <img src="product_images/'.$row['product_image'].'g" alt="">
-                                    </div>
-
-                                    <div class="product-preview">
-                                        <img src="product_images/'.$row['product_image'].'" alt="">
-                                    </div>
+                                  
                                 </div>
                             </div>
 
@@ -135,30 +119,7 @@ include "header.php";
 									</div>
 									<p>Call for Details.</p>
 
-									<div class="product-options">
-										<label>
-											Size
-											<select class="input-select">
-												<option value="0">X</option>
-											</select>
-										</label>
-										<label>
-											Color
-											<select class="input-select">
-												<option value="0">Red</option>
-											</select>
-										</label>
-									</div>
-
-									<div class="add-to-cart">
-										<div class="qty-label">
-											Qty
-											<div class="input-number">
-												
-												<span class="qty-up">+</span>
-												<span class="qty-down">-</span>
-											</div>
-										</div>
+				
 										<div class="btn-group" style="margin-left: 25px; margin-top: 15px">
 										</div>
 										
