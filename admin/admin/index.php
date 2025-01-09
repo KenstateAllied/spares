@@ -1,5 +1,5 @@
 
-    <?php
+<?php
 session_start();
 include("../../db.php");
 
@@ -139,9 +139,9 @@ include "activitity.php";
 
                         while(list($brand_id,$brand_title)=mysqli_fetch_array($result))
                         {	
-                        echo "<tr><td>$brand_id</td><td>$brand_title</td>
+                        echo -n "<td>$brand_id</td><td>$brand_title</td>
 
-                        </tr>";
+                        ";
                         }
                         ?>
                     </tbody>

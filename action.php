@@ -127,7 +127,6 @@ if(isset($_POST["getProduct"])){
 									<div class='product-img'>
 										<img src='product_images/$pro_image' style='max-height: 170px;' alt=''>
 										<div class='product-label'>
-											<span class='sale'></span>
 											<span class='new'>NEW</span>
 										</div>
 									</div></a>
@@ -162,9 +161,7 @@ if(isset($_POST["getProduct"])){
 											<button class='quick-view'><i class='fa fa-eye'></i><span class='tooltipp'>quick view</span></button>
 										</div>
 									</div>
-									<div class='add-to-cart'>
-									</div>
-								</div>
+									
 							</div>
                         
 			";
@@ -207,7 +204,6 @@ if(isset($_POST["get_seleted_Category"]) || isset($_POST["selectBrand"]) || isse
 									<div class='product-img'>
 										<img  src='product_images/$pro_image'  style='max-height: 170px;' alt=''>
 										<div class='product-label'>
-											<span class='sale'></span>
 											<span class='new'>NEW</span>
 										</div>
 									</div></a>
@@ -242,8 +238,7 @@ if(isset($_POST["get_seleted_Category"]) || isset($_POST["selectBrand"]) || isse
 											<button class='quick-view' ><i class='fa fa-eye'></i><span class='tooltipp'>quick view</span></button>
 										</div>
 									</div>
-									<div class='add-to-cart'>
-									</div>
+									
 								</div>
 							</div>
 			";
@@ -530,7 +525,7 @@ if (isset($_POST["Common"])) {
 							<td data-th="Quantity">
 								<input type="text" class="form-control qty" value="'.$qty.'" >
 							</td>
-							<td data-th="" class="text-center"><input type="text" class="form-control total" value="'.$product_price.'" readonly="readonly"></td>
+							<td data-th="Subtotal" class="text-center"><input type="text" class="form-control total" value="'.$product_price.'" readonly="readonly"></td>
 							<td class="actions" data-th="">
 							<div class="btn-group">
 								<a href="#" class="btn btn-info btn-sm update" update_id="'.$product_id.'"><i class="fa fa-refresh"></i></a>
@@ -767,9 +762,3 @@ if (isset($_POST["updateCartItem"])) {
 
 
 ?>
-
-
-
-
-
-

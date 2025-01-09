@@ -76,12 +76,7 @@
                             <p>Manage users</p>
                         </a>
                     </li>
-                  <!--  <li class="nav-item ">
-            <a class="nav-link" href="activity.php">
-              <i class="material-icons">timeline</i>
-              <p>Activities</p>
-            </a>
-          </li> -->
+             
                    
                     <li class="nav-item ">
                         <a class="nav-link" href="profile.php">
@@ -96,18 +91,7 @@
                         </a>
                     </li>
 
-                   <!--   <li class="nav-item ">
-                        <a class="nav-link" href="../../chat/login.php">
-                            <i class="material-icons">notifications</i>
-                            <p>Discussion</p>
-                        </a>
-                    </li> -->
-                    <!-- <li class="nav-item active-pro ">
-                <a class="nav-link" href="./upgrade.html">
-                    <i class="material-icons">unarchive</i>
-                    <p>Upgrade to PRO</p>
-                </a>
-            </li> -->
+                 
                 </ul>
             </div>
         </div>

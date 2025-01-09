@@ -220,33 +220,9 @@ session_start();
 								<!-- Wishlist -->
 								
 								<!-- /Wishlist -->
-								<div>
-									<a href="wishlist.php">
-										<i class="fa fa-heart-o"></i>
-										<span>Your Wishlist</span>
-										<div id="wishlist-badge" class="qty">0</div>
-									</a>
-								</div>
+								
 								<!-- Cart -->
-								<div class="dropdown">
-									<a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
-										<i class="fa fa-shopping-cart"></i>
-										<span>Your Cart</span>
-										<div class="badge qty">0</div>
-									</a>
-									<div class="cart-dropdown"  >
-										<div class="cart-list" id="cart_product">
-										
-											
-										</div>
-										
-										<div class="cart-btns">
-												<a href="cart.php" style="width:100%;"><i class="fa fa-edit"></i>  edit cart</a>
-											
-										</div>
-									</div>
-										
-									</div>
+								
 								<!-- /Cart -->
 
 								<!-- Menu Toogle -->

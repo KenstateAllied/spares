@@ -148,7 +148,8 @@ INSERT INTO `brands` (`brand_id`, `brand_title`) VALUES
 (81, 'Volkswagen'),
 (82, 'Volvo'),
 (83, 'Zoomlion');
-
+(84, 'Styer');
+(85, 'Jx');
 
 -- --------------------------------------------------------
 
@@ -193,7 +194,7 @@ INSERT INTO `categories` (`cat_id`, `cat_title`) VALUES
 (4, 'Implements'),
 (5, 'Tractor Spares'),
 (6, 'Auto Spares'),
-(7, 'Saloon Cars Gadgets');
+(7, 'Motor Bikes');
 
 -- --------------------------------------------------------
 
@@ -327,7 +328,22 @@ INSERT INTO `products` (`product_id`, `product_cat`, `product_brand`, `product_t
 (4, 4, 6, 'Implements', 1300, 'Implements', 'nardi.jpg', 'Implements'),
 (5, 5, 0, 'Tractor Spares', 2500, 'Tractor Spares', 'diff.jpg', 'Tractor Spares'),
 (6, 6, 2, 'Auto Spares', 35000, 'Auto Spares', 'nosecut.jpg', 'Auto Spares'),
-(7, 7, 2, 'Motor Bikes', 3500, 'Motor Bikes', 'motorbike.jpg', 'Motor Bikes');
+(7, 7, 2, 'Motor Bikes', 3500, 'Motor Bikes', 'motorbike.jpg', 'Motor Bikes'),
+(8, 3, 47, 'Massey 240', 450000, 'nandi' , 'mf240_450k.jpg', 'Kwanget 706923495'),
+(9, 4, 5, 'Baldan Plough', 220000, 'ug ', 'pickup.jpg', 'Nakitare 721969760'),
+(10, 5, 22, 'Ford 4000 Steering box', 16000, 'nku ', 'ford4000_steering.jpeg', 'Nduarte 725576184'),
+(11, 3, 47, 'Mf 275', 880000, 'kco ', 'mf275.jpg', 'Kiptoo 725605900'),
+(12, 3, 47, 'Mf 240', 700000, 'nku ', 'mf240.jpg', 'kiptoo 725605900'),
+(13, 3, 47, 'Mf 375E', 700000, 'ug ', 'mf375E.jpg', 'Kiptoo 725605900'),
+(14, 3, 47, 'Mf 290', 900000, 'nandi ', 'mf290.jpg', 'kirwa 718126300'),
+(15,4,58,'tt75 4W CC stroke H', 00,'ug ','wanted.jpg','matelong 706041727'),
+(18, 4, 47, 'Mf3dsc', 130000, 'Eld', 'mf3dsc.jpg', 'Kiptoo 0725605900'),
+(19, 3, 84, 'Styer8075', 350000, 'Nandi', 'styer8075.jpg', 'Kirwa 0718126300'),
+(20, 3, 47, 'Mf385', 1900000, 'Ktl', 'Mf385.jpeg', 'Okoth '),
+(21, 4, 5, 'Two Row Baldan Planter', 650000, 'Eld', '2rowbaldan.jpg', 'Kipsach 0729599752'),
+(22, 3, 85, 'Jx754W', 2000000, 'Nku', 'jx754W.jpg', 'Kamau 0739797731'),
+(23, 3, 58, 'TT754W', 2700000, 'Eld', 'tt754W.jpg', 'Kemboi CC/E 0748753338'),
+(24, 3, 22, 'Ford 5610', 950000, 'Eld', 'ford5610.jpg', 'Rotich 0716717742');
 
 -- --------------------------------------------------------
 

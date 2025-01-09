@@ -24,13 +24,7 @@ if(isset($_POST["categoryhome"])){
 							}
 						}
 
-						// <li><a href='electronics.php'>Electronics</a></li>
-						// <li><a href='ladies_wears.php'>Pickups & Trucks TrucksWears</a></li>
-						// <li><a href='mens_wear.php'>Tractors</a></li>
-						// <li><a href='kids_wear.php'>Implements</a></li>
-						// <li><a href='Tractor Spares.php'>Tractor Spares</a></li>
-						// <li><a href='home_Auto Spares.php'>Home Auto Spares</a></li>
-						// <li><a href='electronics_gadgets.php'>Motor bikes</a></li>
+						
                     
 				 echo"</ul>
 					<!-- /NAV -->
